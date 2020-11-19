@@ -44,7 +44,3 @@ shipping_manifest["gun powder"] = 4
 shipping_manifest
                 end
   # return the shipping_manifest hash below
-
-
-
-puts ["oil paintings"]
